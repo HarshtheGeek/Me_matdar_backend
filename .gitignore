@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Service account credentials
+Utils/service-account.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
